@@ -94,16 +94,16 @@ Tg机器人ChatId
 
 ### 你可能喜欢
 
-[一键获取最高root权限，自定义root密码](https://github.com/kkkyg/vpsroot)
+[一键获取最高root权限，自定义root密码](https://github.com/ygkkkyb/vpsroot)
 
-[Cloudflare WARP 多功能一键脚本](https://github.com/kkkyg/CFwarp)
+[Cloudflare WARP 多功能一键脚本](https://github.com/ygkkkyb/CFwarp)
 
-[acme.sh一键SSL/TLS证书(ecc)申请脚本](https://github.com/kkkyg/acme-script)
+[acme.sh一键SSL/TLS证书(ecc)申请脚本](https://github.com/ygkkkyb/acme-script)
 
 [甬哥油管频道：甲骨文云及纯V6相关视频教程](https://www.youtube.com/channel/UCxukdnZiXnTFvjF5B5dvJ5w)
 
-[甬哥博客主页](https://kkkyg.blogspot.com/)
+[甬哥博客主页](https://ygkkk.blogspot.com/)
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/kkkyg/x-ui-yg.svg)](https://starchart.cc/kkkyg/x-ui-yg)
+[![Stargazers over time](https://starchart.cc/ygkkkyb/x-ui-yg.svg)](https://starchart.cc/ygkkkyb/x-ui-yg)
